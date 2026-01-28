@@ -1,0 +1,16 @@
+security log report Thu Jan 22 09:46:47 AM IST 2026:
+1. failed login attemptd
+0
+2. top 5 IPs with failed logins
+3. sudo command usage
+0
+security log report Thu Jan 22 09:48:55 AM IST 2026:
+1. failed login attemptd
+2. top 5 IPs with failed logins
+3. sudo command usage
+4
+security log report Thu Jan 22 09:50:26 AM IST 2026:
+1. failed login attemptd
+2. top 5 IPs with failed logins
+3. sudo command usage
+0
